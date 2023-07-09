@@ -1,0 +1,2 @@
+# HOW_INVENTARIORPG
+HOW - Inventário de RPG
